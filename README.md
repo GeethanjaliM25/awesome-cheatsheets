@@ -2,7 +2,7 @@
 
 [![AWESOME CHEATSHEETS LOGO](_design/cover_github@2x.png)](https://lecoupa.github.io/awesome-cheatsheets/)
 
-<a href="https://trendshift.io/repositories/5584" target="_blank">
+<a  href="https://trendshift.io/repositories/5584" target="_blank">
   <img  src="https://trendshift.io/api/badge/repositories/5584" alt="LeCoupa%2Fawesome-cheatsheets | Trendshift" width="250" height="55"/>
 </a>
 
